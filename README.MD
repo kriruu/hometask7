@@ -10,5 +10,5 @@ python3 -m http.server
 
 ssh -R 1YOURPORT:localhost:8000 -p YOURPORT root@yoko.ukrtux.com
 
-YOURIP:1YOURIP
+YOURIP:1YOURPORT
 
